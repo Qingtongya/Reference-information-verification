@@ -1,0 +1,13 @@
+{
+  "api_key": "",
+  "last_index_path": "",
+  "use_proxy": false,
+  "proxy_url": "",
+  "recent_files": [],
+  "index_status": {
+    "document_count": 0,
+    "file_count": 0,
+    "dimension": 0,
+    "status": "未初始化"
+  }
+}
